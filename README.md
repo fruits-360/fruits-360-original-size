@@ -19,7 +19,7 @@ Number of classes: 37 (fruits, vegetables and nuts).
 
 Image size: various (original, captured, size) pixels.
 
-Filename format:
+## Filename format ##
 
 r?_image_index.jpg (e.g. r2_31.jpg)
 
