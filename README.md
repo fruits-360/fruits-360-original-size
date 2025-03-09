@@ -15,7 +15,7 @@ Validation set size: 5177 images
 
 Test set size: 5157 images.
 
-Number of classes: 155 (fruits, vegetables and nuts).
+Number of classes: 37 (fruits, vegetables and nuts).
 
 Image size: various (original, captured, size) pixels.
 
