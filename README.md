@@ -30,7 +30,15 @@ Different varieties of the same fruit (apple for instance) are stored as belongi
 
 ## Repository structure ##
 
-Folders [Training](Training), [Validation](Validation) and [Test](Test) contain images for training, validation and testing purposes.
+The images have been divided into 3 subsets: [Training](Training), [Validation](Validation) and [Test](Test).
+_Training_ contains about 50% of images. _Validation_ and _Test_ each contains about 25% of images.
+
+The set of images for each object is divided into _Training_, _Validation_ and _Test_ using the following rule:
+_k_, _k + 2_ were moved to _Training_,
+_k + 1_ was moved to _Validation_,
+_k + 3_ was moved to _Test_.
+
+_k_ is the index of the object ( _k_ is multiple of 4).
 
 ## Alternate download ##
 
