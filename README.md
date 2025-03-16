@@ -1,6 +1,6 @@
 # Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #
 
-## Version: 2025.03.11.0 ##
+## Version: 2025.03.16.0 ##
 
 ## Branch: original-size ##
 
@@ -8,15 +8,15 @@ A high-quality dataset of images containing fruits, vegetables, nuts and seeds.
 
 ## Dataset properties ##
 
-Total number of images: 25008.
+Total number of images: 25933.
 
-Training set size: 12509 images.
+Training set size: 12972 images.
 
-Validation set size: 6263 images
+Validation set size: 6494 images
 
-Test set size: 6236 images.
+Test set size: 6467 images.
 
-Number of classes: 43 (fruits, vegetables, nuts and seeds).
+Number of classes: 44 (fruits, vegetables, nuts and seeds).
 
 Image size: various (original, captured, size) pixels.
 
