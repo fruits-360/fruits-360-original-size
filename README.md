@@ -69,8 +69,6 @@ The maximum value for the distance between 2 neighbor pixels is a parameter of t
 
 ## History ##
 
-Fruits were filmed at the dates given below (YYYY.MM.DD):
-
 2017.02.25 - First fruit filmed.
 
 2023.12.30 - Official Github repository is now [Fruits-360 on Github](https://github.com/fruits-360)
