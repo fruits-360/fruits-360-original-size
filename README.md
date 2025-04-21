@@ -8,7 +8,7 @@ A high-quality dataset of images containing fruits, vegetables, nuts and seeds.
 
 ## Dataset properties ##
 
-Total number of images: 45936.
+Total number of images: 52372.
 
 Training set size: 26219 images.
 
