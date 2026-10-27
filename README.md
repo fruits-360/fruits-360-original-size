@@ -8,15 +8,15 @@ A high-quality dataset of images containing fruits, vegetables, nuts, seeds and 
 
 ## Dataset properties ##
 
-Total number of images: 118611.
+Total number of images: 119807.
 
-Training set size: 59382 images.
+Training set size: 59982 images.
 
-Validation set size: 29702 images.
+Validation set size: 30001 images.
 
-Test set size: 29527 images.
+Test set size: 29824 images.
 
-Number of classes: 162 (fruits, vegetables, nuts, seeds and mushrooms).
+Number of classes: 164 (fruits, vegetables, nuts, seeds and mushrooms).
 
 Image size: various (original, captured, size) pixels.
 
